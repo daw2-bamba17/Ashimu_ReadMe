@@ -21,6 +21,7 @@
 <br>
 <br>
 </div>
+
 On the **Frontend**, I work with technologies like:
 <br>
 <br>
